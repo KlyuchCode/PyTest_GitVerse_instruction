@@ -22,47 +22,47 @@
 ![Image alt](https://github.com/KlyuchCode/PyTest_GitVerse_instruction/raw/main/images/1.png)
 
 2) В правом верхнем углу нажмите на кнопку `Новый класс` или `New class`, если до ещё до этого он не создавался.
-![Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
+![Image alt](https://github.com/KlyuchCode/PyTest_GitVerse_instruction/raw/main/images/2.png)
 
 3) Соответственно дальше нужно создать организацию. В моём случае она уже есть.(Организация создается достаточно просто и интуитивно)
 
-![[Снимок экрана 2025-05-13 в 22.53.28.png]]
+![Image alt](https://github.com/KlyuchCode/PyTest_GitVerse_instruction/raw/main/images/3.png)
 
 4) После создания организации впишите название класса. В моем случае названием будет `pytest_curse`. Нажмите на кнопку `Создать класс` или `Create class`.
 
-![[Снимок экрана 2025-05-13 в 22.55.15.png]]
+![Image alt](https://github.com/KlyuchCode/PyTest_GitVerse_instruction/raw/main/images/4.png)
 
 5) Наш класс создался теперь нужно пригласить в него учеников. Для этого нужно выбрать колонку участники и далее нажать на кнопку `Добавить участников`. 
 
-![[Снимок экрана 2025-05-13 в 22.58.12.png]]
+![Image alt](https://github.com/KlyuchCode/PyTest_GitVerse_instruction/raw/main/images/5.png)
 
 6) В списке участников пишем имена, фамилии или любую другую информацию, для того чтобы отличать пользователей. Также есть возможность загрузки имен и фамили из списка или `csv` файла. Далее нажимаем кнопку добавить.
 
-![[Снимок экрана 2025-05-13 в 23.00.23.png]]
+![Image alt](https://github.com/KlyuchCode/PyTest_GitVerse_instruction/raw/main/images/6.png)
 
 7) Теперь мы видим, что наш новый участник появился, но у него статус `Не связанный пользователь`. Это обозначает что к добавленному нами пользователю не привязан аккаунт `GitVerse`. 
 
-![[Снимок экрана 2025-05-13 в 23.08.31.png]]
+![Image alt](https://github.com/KlyuchCode/PyTest_GitVerse_instruction/raw/main/images/7.png)
 
 8) Заходим в профиль организации и нажимаем на кнопку ННовая команда. Пишем название SStudents и проверяем настройки приватности.
 
-![[Снимок экрана 2025-05-13 в 23.16.31.png]]
-![[Снимок экрана 2025-05-13 в 23.16.56.png]]
-![[Снимок экрана 2025-05-13 в 23.18.11.png]]
+![Image alt](https://github.com/KlyuchCode/PyTest_GitVerse_instruction/raw/main/images/8.png)
+![Image alt](https://github.com/KlyuchCode/PyTest_GitVerse_instruction/raw/main/images/9.png)
+![Image alt](https://github.com/KlyuchCode/PyTest_GitVerse_instruction/raw/main/images/10.png)
 
 9) Добавляем в нашу новую команду GGitverse профиль участника.
 
-![[Снимок экрана 2025-05-13 в 23.21.23.png]]
+![Image alt](https://github.com/KlyuchCode/PyTest_GitVerse_instruction/raw/main/images/11.png)
 
 10) Далее создаем задание. Пишем название, оставляем приватным и выбираем шаблон. Везде используем рекомендованные настройки. Скрипт проверки пропускаем.
 
-![[Снимок экрана 2025-05-13 в 23.31.15.png]]
+![Image alt](https://github.com/KlyuchCode/PyTest_GitVerse_instruction/raw/main/images/12.png)
 
 11) Копируем ссылку-приглашение и отправляем участнику. После того как он примет задание появится возможность привязать его аккаунт GGitverse к созданному нами ученику. Для этого заходим в класс во вкладку ННесвязанные аккаунты GitVerse и нажимаем на кнопку CCвязать аккаунт GitVErse с участником.
 
-![[Снимок экрана 2025-05-13 в 23.36.45.png]]
-![[Снимок экрана 2025-05-13 в 23.37.07.png]]
-![[Снимок экрана 2025-05-13 в 23.37.34.png]]
+![Image alt](https://github.com/KlyuchCode/PyTest_GitVerse_instruction/raw/main/images/13.png)
+![Image alt](https://github.com/KlyuchCode/PyTest_GitVerse_instruction/raw/main/images/14.png)
+![Image alt](https://github.com/KlyuchCode/PyTest_GitVerse_instruction/raw/main/images/15.png)
 
 12) Отлично! На данный момент мы создали репозиторий-задание и корректно добавили участника в нашу организацию и назначили задание. Теперь приступим к следующему этапу - а именно настройка самого задания.
 
@@ -72,27 +72,27 @@
 
 1) Заходим в наше задание и нажимаем на ссылку репозитория задания, которая находится в левом верхнем углу:
 
-![[Снимок экрана 2025-05-13 в 23.42.13.png]]
+![Image alt](https://github.com/KlyuchCode/PyTest_GitVerse_instruction/raw/main/images/16.png)
 
 2) Теперь мы видим, что находится внутри репозитория, а именно RREADME файл. 
 
-![[Снимок экрана 2025-05-13 в 23.44.59.png]]
+![Image alt](https://github.com/KlyuchCode/PyTest_GitVerse_instruction/raw/main/images/17.png)
 
 3) Теперь нажимаем на кнопку меню CCI/CD. Это автотест, который мы сейчас будем настраивать.
 
-![[Снимок экрана 2025-05-13 в 23.47.15.png]]
+![Image alt](https://github.com/KlyuchCode/PyTest_GitVerse_instruction/raw/main/images/18.png)
 
 4) Нажимаем на кнопку ППерейти в настройки, включаем тумблер на пункте CCI/CD и нажимаем кнопку ООбновить.
 
-![[Снимок экрана 2025-05-13 в 23.48.27.png]]
+![Image alt](https://github.com/KlyuchCode/PyTest_GitVerse_instruction/raw/main/images/19.png)
 
 5) Теперь заново переходим в пункт CCI/CD и нажимаем кнопку попробовать. 
 
-![[Снимок экрана 2025-05-13 в 23.50.19.png]]
+![Image alt](https://github.com/KlyuchCode/PyTest_GitVerse_instruction/raw/main/images/20.png)
 
 6) Перед нами появится содержимое файла ddemo.yaml, который будет распологаться по пути обозначенном выше. В нем пока-что ничего не редактируем и просто нажимаем кнопку сохранить.
 
-![[Снимок экрана 2025-05-13 в 23.52.46.png]]
+![Image alt](https://github.com/KlyuchCode/PyTest_GitVerse_instruction/raw/main/images/21.png)
 
 7) Теперь у нас в репозитории задания есть файл RREADME  и файл конфигурации. Переходим к настройке локального раннера.
 
@@ -129,7 +129,7 @@ sudo systemctl status docker  # Должен быть статус "active (runn
 - Скачивание и настройка бинарного раннера:
 	-  Скачиваем act_runner по ссылке https://gitverse.ru/api/packages/gitverse/generic/act_runner_linux_amd64/3.1.0/act_runner_linux_amd64 и помещаем файл в проект:
 
-		```bash
+```bash
 # Например, в папку проекта
 mkdir ~/runner && cd ~/runner
 wget https://gitverse.ru/gitverse/act_runner/releases/download/v0.1.0/act_runner_linux_amd64 -O act_runner
@@ -138,7 +138,7 @@ chmod +x act_runner  # Даём права на выполнение
 	
 	- Соответственно проверяем, что раннер работает:
 
-	```bash
+```bash
 ./act_runner --version
 ```
 	
@@ -148,22 +148,22 @@ chmod +x act_runner  # Даём права на выполнение
 	![[Снимок экрана 2025-05-14 в 00.10.15.png]]
 	
 	- Запускаем регистрацию:
-	```bash
+```bash
 ./act_runner register
 ```
 
 	- Вводим токен, указываем имя раннера и пропускаем лейблы, нажав Enter. Видим успешную регистрацию раннера:
-	```bash
+```bash
 INFO Runner registered successfully.
 ```
 
 	- После этого в папке появится файл ..runner. **Его удалять нельзя!**
 	- Запускаем раннер:
-	```bash
+```bash
 sudo ./act_runner daemon
 ```
 	- **Если система жалуется, что докер не запущен, то запускаем его:**
-	```bash
+```bash
 sudo systemctl start docker
 sudo systemctl status docker
 ```
