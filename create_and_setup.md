@@ -19,7 +19,7 @@
 
 1) После регистрации в `GitVerse` и успешного входа нажимаем на аватарку в правом верхнем углу и в выдвинувшемся меню выбираем `SmartClass`. 
 
-![Image alt](https://github.com/KlyuchCode/PyTest_GitVerse_instruction/raw/master/images/1.png)
+![Image alt](https://github.com/KlyuchCode/PyTest_GitVerse_instruction/raw/main/images/1.png)
 
 2) В правом верхнем углу нажмите на кнопку `Новый класс` или `New class`, если до ещё до этого он не создавался.
 ![Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
