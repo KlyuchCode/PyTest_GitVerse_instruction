@@ -4,6 +4,6 @@
 <h3 align="center">В данном репозитории вы научитесь полноценно работать с автотестами заданий, а именно PyTest в GitVerse smartclass от Сбера.</h3>
 </br>
 <h3 align="center">Содержание:</h3>
-<h4 align="left">create_and_setup.md - инструкция по созданию и настройке организации, заданий и первого автотеста GITVERSE;</h4>
-<h4 align="left">pytest.md - инструкция-документация PyTest;</h4>
-<h4 align="left">how_to_use_pytest_in_git.md - инструкция по работе с PyTest.</h4>
+- `create_and_setup.md` - инструкция по созданию и настройке организации, заданий и первого автотеста GITVERSE;
+- `pytest.md` - инструкция-документация PyTest;
+- `how_to_use_pytest_in_git.md` - инструкция по работе с PyTest.
