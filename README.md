@@ -1,5 +1,4 @@
 # Репозиторий с инструкциями по работе с `PyTest` и `GitVerse`
-**Автор: Ключиков Егор Владимирович 2025**
 
 <h1 align="center">Всех приветствую, я <a href="https://kluchegor.ru/" target="_blank">Егор</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
