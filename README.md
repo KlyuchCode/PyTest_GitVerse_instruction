@@ -7,4 +7,4 @@
 
 - `create_and_setup.md` - инструкция по созданию и настройке организации, заданий и первого автотеста GITVERSE;
 - `pytest.md` - мини-документация PyTest;
-- `how_to_use_pytest_in_git.md` - инструкция по работе с PyTest.
+- `how_to_use_pytest_in_git.md` - инструкция по связке PyTest с Git.
