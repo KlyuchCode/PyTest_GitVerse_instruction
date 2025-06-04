@@ -7,3 +7,4 @@
 
 - `create_and_setup.md` - инструкция по созданию и настройке организации, заданий и первого автотеста GITVERSE;
 - `pytest.md` - мини-документация PyTest;
+- Тестовый репозиторий: https://gitverse.ru/kly_test/sha_kly_test-test1/content/master
